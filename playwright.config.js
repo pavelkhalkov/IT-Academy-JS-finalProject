@@ -24,7 +24,7 @@ const config = {
       use: {
         ...devices['Desktop Chrome'],
         viewport: { width: 1220, height: 1000 },
-     //   headless: false,
+        headless: false,
       },
     },
   ],

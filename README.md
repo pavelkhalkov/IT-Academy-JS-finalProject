@@ -10,6 +10,6 @@ Git : Version control. JavaScript : Programming language. Visual Studio Code: In
 
 3. run all tests > npm run test
 
-4. run one file: npx playwright test footer.spec.js - any test from the tests root can be selected
+4. run one file > npx playwright test footer.spec.js - any test from the tests root can be selected
 
 5. generate report > npx playwright show-report
